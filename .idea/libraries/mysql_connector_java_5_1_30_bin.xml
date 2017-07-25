@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.30-bin">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-5.1.30-bin.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-dbcp-1.4-bin/commons-dbcp-1.4/commons-dbcp-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/commons-dbcp-1.4-bin/commons-dbcp-1.4/commons-dbcp-1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/commons-dbcp-1.4-bin/commons-dbcp-1.4/commons-dbcp-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
